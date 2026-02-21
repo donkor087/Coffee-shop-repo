@@ -14,13 +14,12 @@
       "version": "1.0.0",
       "author": "ExampleUser",
       "description": "Yeaaah this does some pretty crazy stuff yeaa",
-      "thumbnail": "https://placehold.co/400x225/1a1a2e/ffffff?text=HD+UI+Pack",
+      "thumbnail": "https://picsum.photos/seed/mk8mod1/400/225",
       "screenshots": [
-        "https://placehold.co/800x450/1a1a2e/ffffff?text=Screenshot+1",
-        "https://placehold.co/800x450/16213e/ffffff?text=Screenshot+2"
+        "https://picsum.photos/seed/mk8mod1a/800/450",
+        "https://picsum.photos/seed/mk8mod1b/800/450"
       ],
-      "download": "https://github.com/timkicker/modmanager-repo-template/releases/download/dummy-testing/dummy-mod-mk8.zip",
-      "modpack_path": "content/"
+      "download": "https://github.com/timkicker/modmanager-repo-template/releases/download/dummy-testing/dummy-mod-mk8.zip"
     },
     {
       "id": "custom-music-pack",
@@ -29,12 +28,12 @@
       "version": "2.1.0",
       "author": "MusicModder",
       "description": "Replaces all in-game music with custom tracks. Over 40 songs included.",
-      "thumbnail": "https://placehold.co/400x225/0f3460/ffffff?text=Music+Pack",
+      "thumbnail": "https://picsum.photos/seed/mk8music/400/225",
       "screenshots": [
-        "https://placehold.co/800x450/0f3460/ffffff?text=Screenshot+1"
+        "https://picsum.photos/seed/mk8musica/800/450",
+        "https://picsum.photos/seed/mk8musicb/800/450"
       ],
-      "download": "https://example.com/mods/custom-music-pack.zip",
-      "modpack_path": "content/"
+      "download": "https://github.com/timkicker/modmanager-repo-template/releases/download/dummy-testing/dummy-mod-mk8.zip"
     },
     {
       "id": "retro-track-pack",
@@ -43,14 +42,13 @@
       "version": "1.3.2",
       "author": "RetroFan",
       "description": "Gives all retro cups a classic low-poly aesthetic inspired by older Mario Kart titles.",
-      "thumbnail": "https://placehold.co/400x225/533483/ffffff?text=Retro+Tracks",
+      "thumbnail": "https://picsum.photos/seed/mk8retro/400/225",
       "screenshots": [
-        "https://placehold.co/800x450/533483/ffffff?text=Screenshot+1",
-        "https://placehold.co/800x450/2d132c/ffffff?text=Screenshot+2",
-        "https://placehold.co/800x450/1b1b2f/ffffff?text=Screenshot+3"
+        "https://picsum.photos/seed/mk8retroa/800/450",
+        "https://picsum.photos/seed/mk8retrob/800/450",
+        "https://picsum.photos/seed/mk8retroc/800/450"
       ],
-      "download": "https://example.com/mods/retro-track-pack.zip",
-      "modpack_path": "content/"
+      "download": "https://github.com/timkicker/modmanager-repo-template/releases/download/dummy-testing/dummy-mod-mk8.zip"
     },
     {
       "id": "ultimate-bundle",
@@ -58,18 +56,16 @@
       "type": "modpack",
       "version": "1.0.0",
       "author": "ExampleUser",
-      "description": "A curated bundle combining the HD UI Pack, Custom Music Pack, and Retro Track Textures into one install.",
-      "thumbnail": "https://placehold.co/400x225/e94560/ffffff?text=Ultimate+Bundle",
+      "description": "A curated bundle combining the Custom Music Pack and Retro Track Textures into one install.",
+      "thumbnail": "https://picsum.photos/seed/mk8bundle/400/225",
       "screenshots": [
-        "https://placehold.co/800x450/e94560/ffffff?text=Bundle+Preview"
+        "https://picsum.photos/seed/mk8bundlea/800/450"
       ],
       "includes": [
-        "hd-ui-pack",
         "custom-music-pack",
         "retro-track-pack"
       ],
-      "download": "https://example.com/mods/ultimate-bundle.zip",
-      "modpack_path": "content/"
+      "download": "https://github.com/timkicker/modmanager-repo-template/releases/download/dummy-testing/dummy-mod-mk8.zip"
     }
   ]
 }
