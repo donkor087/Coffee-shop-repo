@@ -1,0 +1,75 @@
+{
+  "name": "Mario Kart 8",
+  "cover": "assets/cover.png",
+  "title_ids": [
+    "000500001010EB00",
+    "000500001010EC00",
+    "000500001010ED00"
+  ],
+  "mods": [
+    {
+      "id": "hd-ui-pack",
+      "name": "HD UI Pack",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "ExampleUser",
+      "description": "Replaces the default UI textures with high-resolution alternatives. Includes improved fonts, icons, and menu backgrounds.",
+      "thumbnail": "https://placehold.co/400x225/1a1a2e/ffffff?text=HD+UI+Pack",
+      "screenshots": [
+        "https://placehold.co/800x450/1a1a2e/ffffff?text=Screenshot+1",
+        "https://placehold.co/800x450/16213e/ffffff?text=Screenshot+2"
+      ],
+      "download": "https://example.com/mods/hd-ui-pack.zip",
+      "modpack_path": "content/"
+    },
+    {
+      "id": "custom-music-pack",
+      "name": "Custom Music Pack",
+      "type": "mod",
+      "version": "2.1.0",
+      "author": "MusicModder",
+      "description": "Replaces all in-game music with custom tracks. Over 40 songs included.",
+      "thumbnail": "https://placehold.co/400x225/0f3460/ffffff?text=Music+Pack",
+      "screenshots": [
+        "https://placehold.co/800x450/0f3460/ffffff?text=Screenshot+1"
+      ],
+      "download": "https://example.com/mods/custom-music-pack.zip",
+      "modpack_path": "content/"
+    },
+    {
+      "id": "retro-track-pack",
+      "name": "Retro Track Textures",
+      "type": "mod",
+      "version": "1.3.2",
+      "author": "RetroFan",
+      "description": "Gives all retro cups a classic low-poly aesthetic inspired by older Mario Kart titles.",
+      "thumbnail": "https://placehold.co/400x225/533483/ffffff?text=Retro+Tracks",
+      "screenshots": [
+        "https://placehold.co/800x450/533483/ffffff?text=Screenshot+1",
+        "https://placehold.co/800x450/2d132c/ffffff?text=Screenshot+2",
+        "https://placehold.co/800x450/1b1b2f/ffffff?text=Screenshot+3"
+      ],
+      "download": "https://example.com/mods/retro-track-pack.zip",
+      "modpack_path": "content/"
+    },
+    {
+      "id": "ultimate-bundle",
+      "name": "Ultimate MK8 Bundle",
+      "type": "modpack",
+      "version": "1.0.0",
+      "author": "ExampleUser",
+      "description": "A curated bundle combining the HD UI Pack, Custom Music Pack, and Retro Track Textures into one install.",
+      "thumbnail": "https://placehold.co/400x225/e94560/ffffff?text=Ultimate+Bundle",
+      "screenshots": [
+        "https://placehold.co/800x450/e94560/ffffff?text=Bundle+Preview"
+      ],
+      "includes": [
+        "hd-ui-pack",
+        "custom-music-pack",
+        "retro-track-pack"
+      ],
+      "download": "https://example.com/mods/ultimate-bundle.zip",
+      "modpack_path": "content/"
+    }
+  ]
+}

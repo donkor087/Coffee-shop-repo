@@ -1,0 +1,12 @@
+{
+  "name": "Wii U Mod Store Template Repo",
+  "description": "Official template repository for the Wii U Mod Store. Fork this to host your own mods.",
+  "author": "your-name",
+  "version": "1",
+  "games": [
+    {
+      "id": "mario-kart-8",
+      "path": "games/mario-kart-8/game.json"
+    }
+  ]
+}
